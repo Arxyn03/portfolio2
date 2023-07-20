@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link
+     rel="stylesheet" 
+     href="style.css"
+    >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lumanosimo&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lumanosimo&family=Pangolin&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+   <div >
+        <h1 class="ar">Aryan Parida </h1>
+        <img src="./images/IMG-20230316-WA0009.jpg" height="100" width="100"/>
+        
+   </div>
+    <hr />
+   <div>
+    <h2 class="ar">Personal details</h2>
+    <ul class="br">
+        <li>Name-Aryan Parida</li>
+        <li>Email address- aryanparida03@gmail.com</li> 
+        <li>Phone no- +91 7847964151</li>
+        <li>
+            <a href="https://www.google.com/maps/d/u/0/edit?mid=1T-H8hSkkidfIyeld7ykBsIJDxLFSTgc&ll=0.8623122200373956%2C0&z=2">Address</a>
+            - malik sahi,near sitarameswar mandir,gotalbindha,bbsr
+        </li>
+        <li>Linked in- https://www.linkedin.com/in/aryan-parida-ba11b720b/</li>
+    </ul>
+   </div> 
+    <hr />
+   <div>
+    <h2 class="ar">Skills</h2>
+       <ul class="br">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Node.js</li>
+        <li>React.js</li>
+        <li>MongoDB</li>
+        <li>Python</li>
+       </ul>
+   </div> 
+    <hr />
+   <div>
+    <h2 class="ar">Education</h2>
+    <ul class="br">
+        <li>Btech in cse(2020-2024) 8.2CGPA</li>
+        <li>ISc in 2019(60.6%)</li>
+        <li>ISCE in 2017(87.6%)</li>
+
+    </ul>
+   </div> 
+    <hr />
+   <div>
+     <h2 class="ar">Hobbies</h2>
+    <ol class="br">
+        <li>Playing tabla</li>
+        <li>Football</li>
+    </ol>
+   </div>
+</body>
+</html>
